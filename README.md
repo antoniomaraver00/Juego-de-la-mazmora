@@ -1,6 +1,6 @@
-# Juego de la Mazmorra
+# *Juego de la Mazmorra*
 
-#### 1er Proyecto de Estructura de Datos
+#### *1er Proyecto de Estructura de Datos*
 
 Crear un juego en donde un caballero tendrá que avanzar por un calabozo plagado de criaturas
 enemigas.\
